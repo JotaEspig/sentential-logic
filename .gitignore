@@ -1,0 +1,14 @@
+# CMake dirs
+CMakeFiles/
+# CMake files
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# dirs
+bin/
+.clangd/
+# files
+*.o
+*.so
